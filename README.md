@@ -3,7 +3,7 @@
 # Welcome to Abhinav's GitHub Portfolio!
 
 ## About Me
-Hello! I’m Abhinav, a data enthusiast based in India. I specialize in people analytics, helping organizations make data-driven decisions.
+I’m Abhinav, a data enthusiast based in India. I specialize in people analytics, helping organizations make data-driven decisions.
 
 ## Projects
 Here are some of my favorite projects:

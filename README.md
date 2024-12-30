@@ -17,7 +17,7 @@ Here are some of my favorite projects:
 
 
 ## Contact
-Feel free to [reach out](mailto:abhinav.singh@live.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+Feel free to [reach out](mailto:abhinav.singh@live.com).
 
 <!--
 **isabhinav/isabhinav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

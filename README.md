@@ -8,7 +8,7 @@ I’m Abhinav, a data enthusiast based in India.
 ## Projects
 Here are some of my favorite projects:
 - [Banking Churn Analysis](https://github.com/isabhinav/BankChurn) - A detailed analysis to predict customer churn using machine learning classification algorithms.
-- [HR Engagement Analysis](https://github.com/isabhinav/HREngagement1) - Analysis of employee data to uncover insights into employee satisfaction.
+- [HR Engagement Analysis](https://github.com/isabhinav/HREngagement1) - Analysis of employee survey data to uncover insights into employee satisfaction.
 
 ## Skills
 - **Languages**: R, SQL
